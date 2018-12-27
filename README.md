@@ -1,2 +1,4 @@
-# gtx_cs1301xI
-Repositorio de ejercicios de Python Fundamentals I (edX)
+ GTx: CS1301xI
+ Computing in Python I: Fundamentals and Procedural Programming 
+ 
+ Ejercicios y ejemplos del curso.
